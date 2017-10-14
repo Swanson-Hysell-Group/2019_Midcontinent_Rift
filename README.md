@@ -1,1 +1,1 @@
-# 2017_Midcontinent_Rift
+Data associated with manuscript **Failed rifting and fast drifting: Midcontinent Rift development, Laurentia's rapid motion and the driver of Grenvillian orogenesis** in review at Geological Society of America Bulletin.
