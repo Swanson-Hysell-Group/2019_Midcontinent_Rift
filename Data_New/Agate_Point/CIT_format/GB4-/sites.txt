@@ -1,0 +1,3 @@
+tab	sites
+citations	location	site	lat	lon
+This study	Gooseberry River	GB4	47.2	-91.5

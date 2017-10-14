@@ -1,0 +1,15 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,GB16-,,,,,,,,,,,,,,,,,,,,,
+site_name,GB16-,,,,,,,,,,,,,,,,,,,,,
+site_lat,47.148225,(•_N),,,,,,,,,,,,,,,,,,,,
+site_long,-91.474863,(•_E),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,0,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1a,mag compass orientation (IGRF corrected),244.3,227,13.0,22.2,9.5,yes,nan,-5.0,2015.0,8.0,1.0,1.0,1.0,1.0,nan,nan,[358.53163326762626; 73.210263731005995; 56267.352668755011],-1.46836673237,insufficient data,225.5,20.7
+2a,sun compass orientation,244.35,163,13.0,22.2,9.5,yes,208.0,-5.0,2015.0,8.0,1.0,11.0,27.0,1.0,nan,162.7,[358.53156091270864; 73.210192230403365; 56267.213467884852],-1.46843908729,-0.3,162.7,20.7
+3a,mag compass orientation (IGRF corrected),245.1,164,29.0,22.2,9.5,yes,nan,-5.0,2015.0,8.0,1.0,1.0,1.0,1.0,nan,nan,[358.53163326762626; 73.210263731005995; 56267.352668755011],-1.46836673237,insufficient data,162.5,20.7
+4a,sun compass orientation,244.75,253,8.0,22.2,9.5,yes,293.0,-5.0,2015.0,8.0,1.0,11.0,40.0,1.0,nan,252.3,[358.53155941013307; 73.210190745562542; 56267.210577132959],-1.46844058987,-0.7,252.3,20.7
+5a,sun compass orientation,244.5,101,19.0,22.2,9.5,yes,139.0,-5.0,2015.0,8.0,1.0,11.0,48.0,1.0,nan,101.3,[358.53155848547118; 73.210189831814304; 56267.20879820874],-1.46844151453,0.3,101.3,20.7
+6a,mag compass orientation (IGRF corrected),244.55,158,27.0,22.2,9.5,yes,nan,-5.0,2015.0,8.0,1.0,1.0,1.0,1.0,nan,nan,[358.53163326762626; 73.210263731005995; 56267.352668755011],-1.46836673237,insufficient data,156.5,20.7
+7a,mag compass orientation (IGRF corrected),244.5,208,28.0,22.2,9.5,yes,nan,-5.0,2015.0,8.0,1.0,1.0,1.0,1.0,nan,nan,[358.53163326762626; 73.210263731005995; 56267.352668755011],-1.46836673237,insufficient data,206.5,20.7
+8a,sun compass orientation,244.6,164,72.0,22.2,9.5,yes,194.0,-5.0,2015.0,8.0,1.0,12.0,5.0,1.0,nan,163.1,[358.53155652056489; 73.210187890099022; 56267.205017994842],-1.46844347944,-0.9,163.1,20.7

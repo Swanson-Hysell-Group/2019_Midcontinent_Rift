@@ -1,0 +1,10 @@
+tab	sites
+citations	location	site	lat	lon
+This study	Agate Point	AP2-1	48.6	-88.2
+This study	Agate Point	AP2-2	48.6	-88.2
+This study	Agate Point	AP2-3	48.6	-88.2
+This study	Agate Point	AP2-4	48.6	-88.2
+This study	Agate Point	AP2-5	48.6	-88.2
+This study	Agate Point	AP2-6	48.6	-88.2
+This study	Agate Point	AP2-7	48.6	-88.2
+This study	Agate Point	AP2-8	48.6	-88.2

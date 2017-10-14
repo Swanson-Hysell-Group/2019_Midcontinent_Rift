@@ -1,0 +1,15 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,AP3-,,,,,,,,,,,,,,,,,,,,,
+site_name,AP3-,,,,,,,,,,,,,,,,,,,,,
+site_lat,48.609519,(N),,,,,,,,,,,,,,,,,,,,
+site_long,-88.19800171,(E),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,0,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1a,mag compass orientation (IGRF corrected),36.4,142,79.0,75,13.0,yes,nan,-4.0,2014.0,7.0,27.0,9.0,38.0,,nan,nan,[355.2897156745654; 74.256808195935619; 56772.988765624599],-4.71028432543,insufficient data,137.3,70.3
+2a,mag compass orientation (IGRF corrected),36.6,183,85.0,75,13.0,yes,nan,-4.0,2014.0,7.0,27.0,9.0,44.0,,nan,nan,[355.28971534172308; 74.256807325848683; 56772.98743391977],-4.71028465828,insufficient data,178.3,70.3
+3a,mag compass orientation (IGRF corrected),38.8,339,12.0,75,13.0,yes,nan,-4.0,2014.0,7.0,27.0,9.0,54.0,,nan,nan,[355.28971478698588; 74.256805875703662; 56772.985214411696],-4.71028521301,insufficient data,334.3,70.3
+4a,mag compass orientation (IGRF corrected),38.7,345,18.0,75,13.0,yes,nan,-4.0,2014.0,7.0,27.0,10.0,7.0,,nan,nan,[355.2897140658277; 74.256803990514982; 56772.98232905133],-4.71028593417,insufficient data,340.3,70.3
+5a,mag compass orientation (IGRF corrected),38.9,80,63.0,75,13.0,yes,nan,-4.0,2014.0,7.0,27.0,10.0,22.0,,nan,nan,[355.28971323372218; 74.256801815297038; 56772.978999789419],-4.71028676628,insufficient data,75.3,70.3
+6a,mag compass orientation (IGRF corrected),38.8,128,33.0,75,13.0,yes,nan,-4.0,2014.0,7.0,27.0,10.0,27.0,,nan,nan,[355.2897129563537; 74.256801090224343; 56772.977890035443],-4.71028704365,insufficient data,123.3,70.3
+7a,mag compass orientation (IGRF corrected),39.2,121,23.0,75,13.0,yes,nan,-4.0,2014.0,7.0,27.0,10.0,40.0,,nan,nan,[355.28971223519568; 74.256799205035151; 56772.975004675209],-4.7102877648,insufficient data,116.3,70.3
+8a,mag compass orientation (IGRF corrected),39,109,28.0,75,13.0,yes,nan,-4.0,2014.0,7.0,27.0,10.0,47.0,,nan,nan,[355.28971184687992; 74.256798189933249; 56772.97345101973],-4.71028815312,insufficient data,104.3,70.3

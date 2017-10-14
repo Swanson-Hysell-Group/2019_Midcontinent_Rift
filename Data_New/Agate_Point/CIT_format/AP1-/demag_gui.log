@@ -1,0 +1,8 @@
+-I- PmagPy icon file not found -- skipping
+-I- cant find zeq_gui_preferences file, using defualt default
+-W- Cant find er_locations.txt in project directory
+-W- Cant find er_ages in project directory
+-I- Read magic file  /Users/Laurentia/0000_Github/2016_Swanson-Hysell_KeweeTrack/New_Osler_Data/AP1-/magic_measurements.txt
+-I- done sorting meas data
+-I- Reading previous interpretations from pmag* tables
+

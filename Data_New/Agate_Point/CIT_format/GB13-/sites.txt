@@ -1,0 +1,3 @@
+tab	sites
+citations	location	site	lat	lon
+This study	Gooseberry River	GB13	47.1	-91.5

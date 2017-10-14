@@ -1,0 +1,10 @@
+tab	samples
+citations	location	sample	site	method_codes	azimuth	bed_dip	bed_dip_direction	geologic_classes	azimuth_dec_correction	dip	height	lithologies	geologic_types
+This study	Agate Point	AP4-1	AP4-1	SO-CMD-NORTH	  209.3	   13.0	  160.3		    0.0	  -74.0	47.2		
+This study	Agate Point	AP4-2	AP4-2	SO-CMD-NORTH	  168.3	   13.0	  160.3		    0.0	  -82.0	47.4		
+This study	Agate Point	AP4-3	AP4-3	SO-CMD-NORTH	  169.3	   13.0	  160.3		    0.0	  -83.0	47.6		
+This study	Agate Point	AP4-4	AP4-4	SO-CMD-NORTH	  132.3	   13.0	  160.3		    0.0	  -64.0	47.9		
+This study	Agate Point	AP4-5	AP4-5	SO-CMD-NORTH	  133.3	   13.0	  160.3		    0.0	  -68.0	47.95		
+This study	Agate Point	AP4-6	AP4-6	SO-CMD-NORTH	  140.3	   13.0	  160.3		    0.0	  -73.0	48.1		
+This study	Agate Point	AP4-7	AP4-7	SO-CMD-NORTH	  131.3	   13.0	  160.3		    0.0	  -75.0	48.3		
+This study	Agate Point	AP4-8	AP4-8	SO-CMD-NORTH	  195.3	   13.0	  160.3		    0.0	  -96.0	48.4		

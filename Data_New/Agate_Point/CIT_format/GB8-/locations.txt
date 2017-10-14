@@ -1,0 +1,3 @@
+tab	locations
+citations	location	lat_s	lon_w	lat_s	lon_w
+This study	Gooseberry River	47.1	-91.5	47.1	-91.5
