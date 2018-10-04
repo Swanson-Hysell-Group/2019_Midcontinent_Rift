@@ -1,0 +1,3 @@
+tab	locations
+citations	location	lat_s	lon_w	lat_n	lon_e
+This study	Agate Point	48.6	-88.2	48.6	-88.2

@@ -1,2 +1,0 @@
-tab	ages
-age	age_high	age_low	age_sigma	age_unit

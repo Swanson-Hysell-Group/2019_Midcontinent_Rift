@@ -1,0 +1,10 @@
+tab	specimens
+analysts	citation	sample	specimen	volume	weight
+	This study	GB20-1	GB20-1a		 1.000e-03
+	This study	GB20-2	GB20-2a		 1.000e-03
+	This study	GB20-3	GB20-3a		 1.000e-03
+	This study	GB20-4	GB20-4a		 1.000e-03
+	This study	GB20-5	GB20-5a		 1.000e-03
+	This study	GB20-6	GB20-6a		 1.000e-03
+	This study	GB20-7	GB20-7a		 1.000e-03
+	This study	GB20-8	GB20-8a		 1.000e-03

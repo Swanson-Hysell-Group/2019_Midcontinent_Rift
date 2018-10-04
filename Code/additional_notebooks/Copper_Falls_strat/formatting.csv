@@ -1,0 +1,9 @@
+r,g,b,GRAIN_SIZE,,width,GRAIN_SIZE,COLOUR
+100,100,100,m,,1,m,gray
+100,100,100,m/mv,,0.9,m/mv,gray
+100,100,100,mv,,0.8,mv,gray
+100,100,100,mv/v,,0.7,mv/v,gray
+100,100,100,v,,0.6,v,gray
+255,204,0,ss,,0.5,ss,yellow
+153,0,0,rhy,,1,rhy,red
+255,255,255,cover,,0,cover,white

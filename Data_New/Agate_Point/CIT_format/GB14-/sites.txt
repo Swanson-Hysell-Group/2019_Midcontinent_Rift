@@ -1,3 +1,0 @@
-tab	sites
-analysts	citation	lat	location	lon	site
-	This study	47.1	Gooseberry River	-91.5	GB14

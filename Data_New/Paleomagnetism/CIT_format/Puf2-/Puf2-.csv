@@ -1,0 +1,14 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,Puf2-,,,,,,,,,,,,,,,,,,,,,
+site_name,Puf2-,,,,,,,,,,,,,,,,,,,,,
+site_lat,48.657435,(N),,,,,,,,,,,,,,,,,,,,
+site_long,-88.03944327,(E),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,0,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+1a,mag compass orientation (IGRF corrected),5,340,54.0,74,11.0,yes,nan,-4.0,2014.0,7.0,29.0,15.0,38.0,,nan,nan,[355.13125426276633; 74.283776806400468; 56779.996400306285],-4.86874573723,insufficient data,335.1,69.1
+2a,mag compass orientation (IGRF corrected),4.9,72,27.0,74,11.0,yes,nan,-4.0,2014.0,7.0,29.0,15.0,44.0,,nan,nan,[355.13125395018278; 74.283775933755123; 56779.995070769342],-4.86874604982,insufficient data,67.1,69.1
+3a,mag compass orientation (IGRF corrected),5.2,240,62.0,74,11.0,yes,nan,-4.0,2014.0,7.0,29.0,15.0,50.0,,nan,nan,[355.13125363759923; 74.283775061109708; 56779.993741232414],-4.8687463624,insufficient data,235.1,69.1
+4a,sun compass orientation,5.1,245,19.0,74,11.0,yes,194.0,-4.0,2014.0,7.0,29.0,15.0,52.0,,nan,241.2,[355.13125353340467; 74.283774770227922; 56779.993298053436],-4.8687464666,-3.8,241.2,69.1
+5a,sun compass orientation,4.8,310,49.0,74,11.0,yes,257.0,-4.0,2014.0,7.0,29.0,15.0,55.0,,nan,305.2,[355.13125337711296; 74.2837743339052; 56779.992633285015],-4.86874662289,-4.8,305.2,69.1
+6a,mag compass orientation (IGRF corrected),4.8,288,60.0,74,11.0,yes,nan,-4.0,2014.0,7.0,29.0,15.0,58.0,,nan,nan,[355.13125322082118; 74.283773897582478; 56779.991968516573],-4.86874677918,insufficient data,283.1,69.1
+7a,mag compass orientation (IGRF corrected),4.8,289,55.0,74,11.0,yes,nan,-4.0,2014.0,7.0,29.0,15.0,59.0,,nan,nan,[355.1312531687239; 74.283773752141585; 56779.991746927088],-4.86874683128,insufficient data,284.1,69.1

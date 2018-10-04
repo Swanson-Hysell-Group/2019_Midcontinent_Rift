@@ -1,9 +1,0 @@
-tab	samples
-analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citation	dip	geologic_class	geologic_type	height	lithologies	method_codes	sample	site
-	  128.8	    0.0	    9.5	  110.7	This study	  -61.0			247.4		SO-CMD-NORTH	GB18-2	GB18
-	   61.6	    0.0	    9.5	  110.7	This study	  -64.0			247.4		SO-CMD-NORTH	GB18-3	GB18
-	   82.3	    0.0	    9.5	  110.7	This study	  -65.0			247.55		SO-CMD-NORTH	GB18-4	GB18
-	  105.5	    0.0	    9.5	  110.7	This study	  -80.0			247.9		SO-CMD-NORTH	GB18-5	GB18
-	  111.2	    0.0	    9.5	  110.7	This study	  -18.0			248.65		SO-CMD-NORTH	GB18-6	GB18
-	   99.2	    0.0	    9.5	  110.7	This study	  -15.0			248.7		SO-CMD-NORTH	GB18-7	GB18
-	   68.8	    0.0	    9.5	  110.7	This study	  -51.0			248.95		SO-CMD-NORTH	GB18-8	GB18

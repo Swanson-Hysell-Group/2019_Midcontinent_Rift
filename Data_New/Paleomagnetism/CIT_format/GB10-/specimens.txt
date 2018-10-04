@@ -1,0 +1,12 @@
+tab	specimens
+citations	sample	specimen	volume	weight
+This study	GB10-1	GB10-1a		 1.000e-03
+This study	GB10-2	GB10-2a		 1.000e-03
+This study	GB10-3	GB10-3a		 1.000e-03
+This study	GB10-4	GB10-4a		 1.000e-03
+This study	GB10-5	GB10-5a		 1.000e-03
+This study	GB10-6	GB10-6a		 1.000e-03
+This study	GB10-7	GB10-7a		 1.000e-03
+This study	GB10-8	GB10-8a		 1.000e-03
+This study	GB10-9	GB10-9a		 1.000e-03
+This study	GB10-10	GB10-10a		 1.000e-03

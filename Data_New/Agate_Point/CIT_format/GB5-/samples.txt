@@ -1,9 +1,0 @@
-tab	samples
-citations	sample	site	method_codes	azimuth	bed_dip	bed_dip_direction	geologic_classes	azimuth_dec_correction	dip	height	lithologies	geologic_types
-This study	GB5-1	GB5	SO-CMD-NORTH	  169.5	    9.5	  110.7		    0.0	  -45.0	41.45		
-This study	GB5-3	GB5	SO-CMD-NORTH	   58.5	    9.5	  110.7		    0.0	  -44.0	42.2		
-This study	GB5-4	GB5	SO-CMD-NORTH	  238.5	    9.5	  110.7		    0.0	  -19.0	42.3		
-This study	GB5-5	GB5	SO-CMD-NORTH	  209.5	    9.5	  110.7		    0.0	  -38.0	42.3		
-This study	GB5-6	GB5	SO-CMD-NORTH	  258.5	    9.5	  110.7		    0.0	  -25.0	42.3		
-This study	GB5-7	GB5	SO-CMD-NORTH	  -31.5	    9.5	  110.7		    0.0	  -62.0	42.2		
-This study	GB5-8	GB5	SO-CMD-NORTH	  -73.5	    9.5	  110.7		    0.0	  -40.0	42.1		

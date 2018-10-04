@@ -1,0 +1,9 @@
+tab	specimens
+citations	sample	specimen	volume	weight
+This study	GB5-1	GB5-1a		 1.000e-03
+This study	GB5-3	GB5-3a		 1.000e-03
+This study	GB5-4	GB5-4a		 1.000e-03
+This study	GB5-5	GB5-5a		 1.000e-03
+This study	GB5-6	GB5-6a		 1.000e-03
+This study	GB5-7	GB5-7a		 1.000e-03
+This study	GB5-8	GB5-8a		 1.000e-03

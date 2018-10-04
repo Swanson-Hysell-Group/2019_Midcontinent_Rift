@@ -1,0 +1,10 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	site_lat	site_lon
+This study	Agate Point	AP1-1	48.6	-88.2
+This study	Agate Point	AP1-2	48.6	-88.2
+This study	Agate Point	AP1-3	48.6	-88.2
+This study	Agate Point	AP1-4	48.6	-88.2
+This study	Agate Point	AP1-5	48.6	-88.2
+This study	Agate Point	AP1-6	48.6	-88.2
+This study	Agate Point	AP1-7	48.6	-88.2
+This study	Agate Point	AP1-8	48.6	-88.2
