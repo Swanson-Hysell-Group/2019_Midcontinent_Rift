@@ -6,7 +6,7 @@ Swanson-Hysell, N.L., Ramenzani, J., Fairchild, L.M. and Rose, I., **Failed rift
 
 ### Code
 
-Jupyter notebooks associated with the data analysis presented in the paper are available in the code folder. The packages used to conduct the analysis are detailed in the environment.yml file.
+Jupyter notebooks associated with the data analysis presented in the paper are available in the code folder. The packages used to conduct the analysis are detailed in the environment.yml file. The main notebook can be viewed as static html here: https://swanson-hysell.github.io/Keweenawan_Track
 
 ### Compiled data
 
